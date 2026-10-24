@@ -1,0 +1,4 @@
+/build/
+/src/*.o
+/.tools/
+/tests/*.o
