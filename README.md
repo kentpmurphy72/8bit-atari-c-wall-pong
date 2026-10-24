@@ -1,7 +1,12 @@
-# Wall Pong — Atari 800XL
+# Wall Pong — C / Atari 800XL
 
-A one-player paddle-and-wall game for the Atari 800XL. Keep the ball alive with
+A one-player paddle-and-wall game for the Atari 800XL, programmed in **C** and
+compiled to native 6502 machine code using **cc65**. Keep the ball alive with
 your paddle on the left. The right side is a solid wall; there is no opponent.
+
+This repository contains the C implementation. The
+[Atari BASIC version](https://github.com/kentpmurphy72/8bit-atari-basic-wall-pong)
+is maintained in a separate repository.
 
 ## Play
 
